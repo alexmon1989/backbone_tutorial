@@ -1,0 +1,19 @@
+{
+  "name": "backbone_tutorial",
+  "version": "0.0.1",
+  "authors": [
+    "Monastyretsky Alexandr <alex.mon1989@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2"
+  }
+}
